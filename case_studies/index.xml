@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case_studies on We are Studio Zero</title>
+    <link>http://studiozero.co/case_studies/</link>
+    <description>Recent content in Case_studies on We are Studio Zero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://studiozero.co/case_studies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://studiozero.co/case_studies/nascent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://studiozero.co/case_studies/nascent/</guid>
+      <description> This is a placeholder for nascent </description>
+    </item>
+    
+  </channel>
+</rss>

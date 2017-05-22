@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>We are Studio Zero</title>
+    <link>http://studiozero.co/</link>
+    <description>Recent content on We are Studio Zero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 May 2017 16:42:13 +0100</lastBuildDate>
+    
+	<atom:link href="http://studiozero.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>welcome</title>
+      <link>http://studiozero.co/post/welcome/</link>
+      <pubDate>Wed, 17 May 2017 16:42:13 +0100</pubDate>
+      
+      <guid>http://studiozero.co/post/welcome/</guid>
+      <description>This is a test post made by me</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://studiozero.co/case_studies/nascent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://studiozero.co/case_studies/nascent/</guid>
+      <description> This is a placeholder for nascent </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://studiozero.co/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://studiozero.co/legal/</guid>
+      <description>Legal Studio Zero Digital Limited. Registered No. 09431335.
+Registered Office : Kemp House, 152/160 City Road, London, United Kingdom, EC1V 2DW
+VAT number: 207227532</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://studiozero.co/scenes/saturnv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://studiozero.co/scenes/saturnv/</guid>
+      <description>  Saturn 5            </description>
+    </item>
+    
+  </channel>
+</rss>
